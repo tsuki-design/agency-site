@@ -2,9 +2,7 @@ module.exports = {
   purge: {
     mode: 'all',
    content: [
-    './src/**/*.html',
-    './src/**/*.vue',
-    './src/**/*.jsx',
+    './src/**/*.html'
   ]},
   theme: {
     extend: {
